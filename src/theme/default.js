@@ -1,0 +1,23 @@
+export const defaultTheme = {
+  pageWidth: "1280px",
+  wrapperWidth: "1095px",
+  marginWrapper: "0 auto",
+  fontFamily: '"Inter", "Arial", sans-serif',
+  buttonColor: "#FC9B27",
+  buttonHoverColor: "#FC7427",
+  aboutColor: "#D8ECFE",
+  cardBgFermColor: "#E1EDCE",
+  cardBgStoreColor: "#F8DDD7",
+  cardLabelFermColor: "#88AA4D",
+  cardLabelStoreColor: "#F75531",
+  textColor: "#333333",
+  whiteTextColor: "#FFFFFF",
+  advantagesBackground: "#FFFFFF",
+  defaultTextSize: "18px",
+  defaultLineHeight: "27px",
+  buyBackground: "#FFFFFF",
+  buyPageBackground: "#f7f7f7",
+  inputBackground: "#f7f7f7",
+  priceColor: "#D8ECFE",
+  greenBackgroundColor: "#88AA4D"
+};
